@@ -8,4 +8,5 @@ body{
 header{
   width: 500px;
   height: 700px;
+  border-radius: 20px;
 }
